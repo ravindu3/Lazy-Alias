@@ -69,3 +69,11 @@ echo -e "\033[1;34mWelcome, \033[1;32m$(whoami)!\033[0m"
 if [ -f /etc/bashrc ]; then
     . /etc/bashrc
 fi
+
+#Lazy Alias
+
+alias p="shutdown -P now"
+alias r="reboot"
+alias 1="ping -c 4 google.com"
+alias cls="clear"
+alias 
