@@ -76,4 +76,3 @@ alias p="shutdown -P now"
 alias r="reboot"
 alias 1="ping -c 4 google.com"
 alias cls="clear"
-alias 
