@@ -64,7 +64,6 @@ alias diff='diff --color=auto'
 
 # Welcome Message
 echo -e "\033[1;34mWelcome, \033[1;32m$(whoami)!\033[0m"
-echo -e "Enjoy your colorful bash experience! 🌈"
 
 # Source global definitions (if available)
 if [ -f /etc/bashrc ]; then
